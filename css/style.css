@@ -424,6 +424,9 @@ h3 {
 .footer-cotact div {
   text-align: center;
 }
+.box-img{
+  height: 49px;
+}
 h4 {
   margin-top: 20px;
   margin-bottom: 22px;
@@ -571,6 +574,9 @@ h4 {
   .footer-contact {
     margin-top: 28px;
   }
+  .box-img{
+    height: 39px;
+  }
   .footer-contact img {
     width: 29px;
   }
@@ -654,6 +660,9 @@ h4 {
   .wrapper-footer-contact {
     padding-bottom: 80px;
     padding-top: 53px;
+  }
+  .box-img{
+    height: 34px;
   }
   .footer-contact img {
     width: 25px;
